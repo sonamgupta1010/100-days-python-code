@@ -1,4 +1,4 @@
-x=12
+x=13
 
 for num in range(2,x+1):
     if(x%num==0):
